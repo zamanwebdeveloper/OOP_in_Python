@@ -1,21 +1,16 @@
-def get_greatest_no(a,b,c):
-    greatest = 0
-    if a>b:
-        if a>c:
-            greatest = a
-        else:
-            greatest = c
-    elif b>a:
-        if b>c:
-            greatest = b
-        else:
-            greatest = c
-    else:
-        greatest = c
-    return greatest
+#Forwarding function
 
-a = 70
-b = 50
-c = 60
-d = get_greatest_no(a,b,c)
-print(d,"is greatest")
+def add(p,q,r):
+    return p+q+r
+
+def add1(p,q,r):
+    return p-q+r
+
+def add2(p,q,r):
+    return add1(p,q,r)
+
+d1 = [100,20,10]
+s = add(*d1)
+# s = add(d1[0],d1[1],d1[2])
+print(s)
+print(add2(*d1))
