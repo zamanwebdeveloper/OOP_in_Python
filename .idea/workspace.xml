@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78faea92-701c-4c66-ae8f-57021d0cccca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/DictionaryComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/LambdaFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/PermutationComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/PermutationComprehension2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
       <recent name="E:\Python\OOP in Python\Python 3.8 Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DictionaryComprehension">
+  <component name="RunManager" selected="Python.LambdaFunction">
     <configuration name="Comprehension and Conditional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,27 +47,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/Comprehension and Conditional.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OOP in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/Comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/Enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/LambdaFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SetDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PermutationComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +109,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/SetDifference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/PermutationComprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PermutationComprehension2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/PermutationComprehension2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LambdaFunction" />
+        <item itemvalue="Python.PermutationComprehension2" />
+        <item itemvalue="Python.PermutationComprehension" />
         <item itemvalue="Python.DictionaryComprehension" />
         <item itemvalue="Python.Comprehension and Conditional" />
-        <item itemvalue="Python.Comprehension" />
-        <item itemvalue="Python.Enumerate" />
-        <item itemvalue="Python.SetDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -165,30 +167,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585460802667" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585676824849">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585742763150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585676824849" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585676824849">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585742763150" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585742763150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585676824849" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585676824848">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585742763150" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585742763150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585676824848" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585676824849">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585742763150" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585742763150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585676824849" />
-    <state x="292" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585660122382">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585742763150" />
+    <state x="292" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585742365913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="219" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1584982773233" />
-    <state x="292" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585660122382" />
+    <state x="292" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585742365913" />
   </component>
 </project>
