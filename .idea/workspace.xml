@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78faea92-701c-4c66-ae8f-57021d0cccca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/Global Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/None Keyword.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,28 +31,7 @@
       <recent name="E:\Python\OOP in Python\Python 3.8 Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Global Keyword">
-    <configuration name="Filter2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OOP in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/Filter2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.None Keyword">
     <configuration name="Filter3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +66,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/Global Keyword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="None Keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/None Keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.None Keyword" />
         <item itemvalue="Python.Global Keyword" />
         <item itemvalue="Python.ReduceWithLamda" />
         <item itemvalue="Python.Reduce" />
         <item itemvalue="Python.Filter3" />
-        <item itemvalue="Python.Filter2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,26 +165,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585460802667" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585843891895">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585847172055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585843891895" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585843891895">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585847172055" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585847172055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585843891895" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585843891895">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585847172055" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585847172055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585843891895" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585843891895">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585847172055" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585847172055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585843891895" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585847172055" />
     <state x="292" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585842217246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
