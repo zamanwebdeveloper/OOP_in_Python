@@ -1,8 +1,11 @@
-# in or not in
-# in/not in -> boolean -> true / false
-a = {1:2,'apple':4,'orange':6}
-b = input('Enter input here = ')
-if b not in a:
-    print('There is no ',b,'item')
-else:
-    print(b, '=', a[b])
+# nested function
+a = 5
+def f():
+    # a = 5 # Non Local
+    def g():
+        global a
+        a = 6
+        return a*a
+    print(a,'a*a = ',g())
+f()
+print(a)
