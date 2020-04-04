@@ -19,3 +19,11 @@ car = Vehicle()
 car.name = 'toyota'
 car.wheel = 4
 car.driver = 'solimuddin'
+print(car.name,car.driver,car.wheel)
+
+truck = Vehicle()
+truck.name = 'tata'
+truck.wheel = 8
+truck.driver = 'kolimuddin'
+
+print(truck.name,truck.driver,truck.wheel)

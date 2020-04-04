@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78faea92-701c-4c66-ae8f-57021d0cccca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/84.Exception - 01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/85.Exception Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/85.Exception Handling2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/85.Exception Handling3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/85.TypeError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3.8 Programming/86.Pass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 object.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 object.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +32,8 @@
       <recent name="E:\Python\OOP in Python\Python 3.8 Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.85.Exception Handling3">
-    <configuration name="84.Exception - 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02 object">
+    <configuration name="02 object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,32 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/84.Exception - 01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="85.Exception Handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OOP in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/85.Exception Handling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,13 +117,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="86.Pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.8 Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.8 Programming/86.Pass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02 object" />
+        <item itemvalue="Python.86.Pass" />
         <item itemvalue="Python.85.Exception Handling3" />
         <item itemvalue="Python.85.TypeError" />
         <item itemvalue="Python.85.Exception Handling2" />
-        <item itemvalue="Python.85.Exception Handling" />
-        <item itemvalue="Python.84.Exception - 01" />
       </list>
     </recent_temporary>
   </component>
@@ -169,34 +166,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585460802667" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585928168465">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586018110942">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585928168465" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585928168465">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586018110942" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586018110942">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585928168465" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585928168465">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586018110942" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586018110941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1584983357389" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585928168465" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585928168465">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586018110941" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586018110942">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1003" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1584983357390" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585928168465" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586018110942" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1585927737168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1585927737168" />
-    <state x="292" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585927686823">
+    <state x="292" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586015445383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="219" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1584982773233" />
-    <state x="292" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585927686823" />
+    <state x="292" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586015445383" />
   </component>
 </project>
