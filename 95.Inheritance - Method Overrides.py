@@ -7,3 +7,10 @@ class A:
         print(self.name)
     def info(self):
         print('good')
+class B(A):
+    def info(self):
+        print('bad')
+
+C = B('Selim','Red')
+C.nameshow()
+C.info()
